@@ -49,10 +49,6 @@ regiform/
 - Integrate with a backend server to handle form submissions.
 - Improve the design and add more styling.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Feel free to use and modify this project as per your needs. Contributions are welcome!
